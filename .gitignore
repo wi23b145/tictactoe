@@ -1,0 +1,15 @@
+# Ignoriere alle .log-Dateien
+*.log
+
+# Ignoriere alle Verzeichnisse namens tmp
+tmp/
+
+# Ignoriere alle .DS_Store-Dateien (Mac-spezifisch)
+.DS_Store
+
+# Ignoriere Node.js Abhängigkeiten
+node_modules/
+
+# Ignoriere Python-Bytecode
+__pycache__/
+*.py[cod]
